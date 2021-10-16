@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/monte-carlo-simulation/static/css/main.852c016d.chunk.css",
-    "main.js": "/monte-carlo-simulation/static/js/main.fab5d701.chunk.js",
-    "main.js.map": "/monte-carlo-simulation/static/js/main.fab5d701.chunk.js.map",
+    "main.js": "/monte-carlo-simulation/static/js/main.a68d4960.chunk.js",
+    "main.js.map": "/monte-carlo-simulation/static/js/main.a68d4960.chunk.js.map",
     "runtime-main.js": "/monte-carlo-simulation/static/js/runtime-main.f36d57c0.js",
     "runtime-main.js.map": "/monte-carlo-simulation/static/js/runtime-main.f36d57c0.js.map",
     "static/css/2.41953c31.chunk.css": "/monte-carlo-simulation/static/css/2.41953c31.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.41953c31.chunk.css",
     "static/js/2.a3d64110.chunk.js",
     "static/css/main.852c016d.chunk.css",
-    "static/js/main.fab5d701.chunk.js"
+    "static/js/main.a68d4960.chunk.js"
   ]
 }
